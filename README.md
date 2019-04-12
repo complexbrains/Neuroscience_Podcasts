@@ -12,3 +12,6 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 
 [National Institue of Mental Health](https://www.nimh.nih.gov/news/media/2019/.shtml) Includes all the multimedia recorded that goes back to 2013. One of my recent favorites is by Dr. Francisco Pereira on [the use of machine learning in brain imaging](https://www.nimh.nih.gov/news/media/2019/francisco-pereira-brain-imaging.shtml)
+
+
+[Psychology in Action Podcast](https://www.psychologyinaction.org/podcasts) 
