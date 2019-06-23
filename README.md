@@ -23,3 +23,14 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Peter Bandettini interview with Danny Pine](https://www.nimh.nih.gov/news/media/2019/danny-pine-md-can-clinical-fmri-research-transfer-to-the-clinic.shtml) Can clinical fMRI research transfer to the clinic?
 
 [Brain Talk](https://www.brainscienceinstitute.org/brain_talk) by Brain Science Institute, Johns Hopkings Medicine
+
+
+[Nature NeuroPod Podcasts (No Updates since 2015)](https://player.fm/series/neuropod-9886)
+
+[Naked Neuroscience](https://player.fm/series/naked-neuroscience-from-the-naked-scientists-1335805)
+
+[SAGE Neuroscience and Neurology](https://player.fm/series/sage-neuroscience-and-neurology)
+
+[UpWIRE: Hacking HUman Nature](https://player.fm/series/upwire-hacking-human-nature)
+
+[University of Neuroscience: Nuffield Department of Clinical Neurosciences](https://player.fm/series/nuffield-department-of-clinical-neurosciences)
