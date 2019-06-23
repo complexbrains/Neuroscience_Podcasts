@@ -33,4 +33,4 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [UpWIRE: Hacking HUman Nature](https://player.fm/series/upwire-hacking-human-nature)
 
-[University of Neuroscience: Nuffield Department of Clinical Neurosciences](https://player.fm/series/nuffield-department-of-clinical-neurosciences)
+[University of Oxford: Nuffield Department of Clinical Neurosciences](https://player.fm/series/nuffield-department-of-clinical-neurosciences)
