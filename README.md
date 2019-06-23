@@ -15,3 +15,6 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 
 [Psychology in Action Podcast](https://www.psychologyinaction.org/podcasts) 
+
+
+[Peter Bandettini interview with Niko Kriegescorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
