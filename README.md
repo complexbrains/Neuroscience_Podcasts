@@ -19,4 +19,4 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Peter Bandettini interview with Niko Kriegescorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
 
-[Brain Talk by Brain Science Institute, Johns Hopkings Medicine](https://www.brainscienceinstitute.org/brain_talk)
+[Brain Talk](https://www.brainscienceinstitute.org/brain_talk) by Brain Science Institute, Johns Hopkings Medicine
