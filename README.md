@@ -34,3 +34,7 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [UpWIRE: Hacking HUman Nature](https://player.fm/series/upwire-hacking-human-nature)
 
 [University of Oxford: Nuffield Department of Clinical Neurosciences](https://podcasts.ox.ac.uk/keywords/neuroscience)
+
+[On Neuro: Live Online Neuroscience](https://www.onneuro.com/past-speakers)
+
+[Brain Matters](https://podcasts.apple.com/sk/podcast/brain-matters/id730239508)
