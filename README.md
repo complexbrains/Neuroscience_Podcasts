@@ -17,7 +17,7 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Psychology in Action Podcast](https://www.psychologyinaction.org/podcasts) 
 
 
-[Peter Bandettini interview with Niko Kriegescorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
+[Peter Bandettini interview with Niko Kriegeskorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
 
 
 [Peter Bandettini interview with Danny Pine](https://www.nimh.nih.gov/news/media/2019/danny-pine-md-can-clinical-fmri-research-transfer-to-the-clinic.shtml) Can clinical fMRI research transfer to the clinic?
