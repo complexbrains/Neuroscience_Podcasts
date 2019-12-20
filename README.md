@@ -20,6 +20,9 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Peter Bandettini interview with Niko Kriegeskorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
 
 
+
+[Peter Bandettini interview with Dr. Christopher Baker: How does the brain categorize the visual world and change with learning](https://www.nimh.nih.gov/news/media/2019/dr-christopher-baker-how-does-the-brain-categorize-the-visual-world-and-change-with-learning.shtml)
+
 [Peter Bandettini interview with Danny Pine](https://www.nimh.nih.gov/news/media/2019/danny-pine-md-can-clinical-fmri-research-transfer-to-the-clinic.shtml) Can clinical fMRI research transfer to the clinic?
 
 [DeepMind Podcasts](https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast)
