@@ -29,6 +29,10 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [JNP Podcasts](https://jneurophysiol.podbean.com/)
 
+[eLife Podcasts](https://elifesciences.org/podcast)
+
+[Max Planck Florida’s Neurotransmissions Podcast](https://mpfi.org/news-media/podcast/)
+
 
 [DeepMind Podcasts](https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast)
 
