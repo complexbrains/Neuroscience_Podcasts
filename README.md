@@ -54,3 +54,5 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Brain Matters](https://podcasts.apple.com/sk/podcast/brain-matters/id730239508)
 
 [This Week in Neuroscience](https://www.microbe.tv/twin/)
+
+[Stimulating the Brains](http://stimulatingbrains.org/)
