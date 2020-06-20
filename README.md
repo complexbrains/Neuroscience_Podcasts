@@ -1,14 +1,14 @@
 # Neuroscience_Podcasts
 
-Here I gathered the podcasts about the general topics in Neuroscience that I like to listen and enjoy. Working in a specific field for such a long time, sometimes blinds our perception of looking into things from different perspectives and scientific aspects. I always have so much respect to the people who use metaphors and examples from other scientific fields to explain things in neuroscience which makes things easier to understand or allow you to create link across different scientific fields. Hence it helps to you to investigate the ways of implementing methods across disciplines to solve very complex methods sometimes using very easy applications from another scientific field. Therefore it is sometimes helpful to distract ourselves with other research going on under different subfields to get a grip of scientific understanding and approach better. Podcasts are one of the most effective ways of having this chance because the majority of us either use transportations to commute from home to work or spend some time (hopefully several times a week) doing some workouts, so there is always a possibility to find a time to listen to such podcasts... Anyways long story short, I will list some podcasts that I listen and enjoy, hope you find them useful too...
+Here I gathered the podcasts about the general topics in Neuroscience that I like to listen to and enjoy. Working in a specific field for such a long time, sometimes blinds our perception of looking into things from different perspectives and scientific aspects. I always have so much respect for the people who use metaphors and examples from other scientific fields to explain things in neuroscience which makes things easier to understand or allow you to create links across different scientific fields. Hence it helps you to investigate the ways of implementing methods across disciplines to solve very complex methods sometimes using very easy applications from another scientific field. Therefore it is sometimes helpful to distract ourselves with other research going on under different subfields to get a grip of scientific understanding and approach better. Podcasts are one of the most effective ways of having this chance because the majority of us either use transportations to commute from home to work or spend some time (hopefully several times a week) doing some workouts, so there is always a possibility to find a time to listen to such podcasts... Anyways long story short, I will list some podcasts that I listen and enjoy, hope you find them useful too...
 
-[Unsupervised Thinking](http://unsupervisedthinkingpodcast.blogspot.com/) is a interactie podscasts run as if they are journal clubs and run by a bunch of early career researchers on neuroscience, artificial intelligence and general science
-
-
-[Brain Inspired](https://braininspired.co/podcast/) is a series of podcasts on neuroscience and AI, machine learning and how brain functioning could lead to a better understanding and implementation of AI methodologies. 
+[Unsupervised Thinking](http://unsupervisedthinkingpodcast.blogspot.com/) is an interactive podcast run as if they are journal clubs and run by a bunch of early career researchers on neuroscience, artificial intelligence, and general science
 
 
-[Brain Science Podcast](http://brainsciencepodcast.com/) run by Ginger Campel, MD, on mind, body, philosopy, language, emotion in a way all the aspects of brain research. 
+[Brain Inspired](https://braininspired.co/podcast/) is a series of podcasts on neuroscience and AI, machine learning, and how brain functioning could lead to a better understanding and implementation of AI methodologies. 
+
+
+[Brain Science Podcast](http://brainsciencepodcast.com/) run by Ginger Campbell, MD, on mind, body, philosophy, language, emotion in a way all the aspects of brain research. 
 
 
 [National Institue of Mental Health](https://www.nimh.nih.gov/news/media/2019/.shtml) Includes all the multimedia recorded that goes back to 2013. One of my recent favorites is by Dr. Francisco Pereira on [the use of machine learning in brain imaging](https://www.nimh.nih.gov/news/media/2019/francisco-pereira-brain-imaging.shtml)
@@ -36,7 +36,7 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [DeepMind Podcasts](https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast)
 
-[Brain Talk](https://www.brainscienceinstitute.org/brain_talk) by Brain Science Institute, Johns Hopkings Medicine
+[Brain Talk](https://www.brainscienceinstitute.org/brain_talk) by Brain Science Institute, Johns Hopkins Medicine
 
 
 [Nature NeuroPod Podcasts (No Updates since 2015)](https://player.fm/series/neuropod-9886)
@@ -45,10 +45,12 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [SAGE Neuroscience and Neurology](https://player.fm/series/sage-neuroscience-and-neurology)
 
-[UpWIRE: Hacking HUman Nature](https://player.fm/series/upwire-hacking-human-nature)
+[UpWIRE: Hacking Human Nature](https://player.fm/series/upwire-hacking-human-nature)
 
 [University of Oxford: Nuffield Department of Clinical Neurosciences](https://podcasts.ox.ac.uk/keywords/neuroscience)
 
 [On Neuro: Live Online Neuroscience](https://www.onneuro.com/past-speakers)
 
 [Brain Matters](https://podcasts.apple.com/sk/podcast/brain-matters/id730239508)
+
+[This Week in Neuroscience](https://www.microbe.tv/twin/)
