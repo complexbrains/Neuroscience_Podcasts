@@ -56,3 +56,5 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [This Week in Neuroscience](https://www.microbe.tv/twin/)
 
 [Stimulating the Brains](http://stimulatingbrains.org/)
+
+[Canadian Open Neuroscience Platform](https://conp.ca/podcasts/page/1/)
