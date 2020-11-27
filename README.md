@@ -4,6 +4,7 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Unsupervised Thinking](http://unsupervisedthinkingpodcast.blogspot.com/) is an interactive podcast run as if they are journal clubs and run by a bunch of early career researchers on neuroscience, artificial intelligence, and general science
 
+[NeuroBooksNetwork](https://twitter.com/NewBooksNetwork)
 
 [Brain Inspired](https://braininspired.co/podcast/) is a series of podcasts on neuroscience and AI, machine learning, and how brain functioning could lead to a better understanding and implementation of AI methodologies. 
 
