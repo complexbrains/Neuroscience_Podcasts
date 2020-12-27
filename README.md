@@ -34,6 +34,7 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Max Planck Florida’s Neurotransmissions Podcast](https://mpfi.org/news-media/podcast/)
 
+[Biomedical Informatics Roundtable Podcasts](http://bmipodcast.org/)
 
 [DeepMind Podcasts](https://deepmind.com/blog/article/welcome-to-the-deepmind-podcast)
 
