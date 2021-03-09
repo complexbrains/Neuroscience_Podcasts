@@ -67,4 +67,4 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Cortex Club](https://podcasts.ox.ac.uk/series/cortexcast-neuroscience-podcast)
 
-[BJKS Podcast](https://twitter.com/bjkspodcast) is a long-form interviews about neuroscience, psychology, & anything vaguely related. 
+[BJKS Podcast](https://bjks.buzzsprout.com/) is a long-form interviews about neuroscience, psychology, & anything vaguely related.
