@@ -6,6 +6,8 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [NeLLab Podcast Series](https://open.spotify.com/episode/0a9pqrASAMmPCTQNZxxpvy?si=R3WnxC-CTnC8H5AIO_ZbzA&nd=1)
 
+[The Language Neuroscience Podcast](https://open.spotify.com/show/0dsiBFfO1swS6t87azc4wU?si=XPMQdmiZRmy_w7xx0F-yvQ&nd=1)
+
 [NeuroBooksNetwork](https://twitter.com/NewBooksNetwork)
 
 [Brain Inspired](https://braininspired.co/podcast/) is a series of podcasts on neuroscience and AI, machine learning, and how brain functioning could lead to a better understanding and implementation of AI methodologies. 
