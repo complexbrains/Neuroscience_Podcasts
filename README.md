@@ -70,3 +70,5 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Neurology Minute](https://neurologyminute.libsyn.com/website)
 
+[High Impact Coffee Hours](https://open.spotify.com/show/2v31ZA6AipBlJ60IbGAUt5)
+
