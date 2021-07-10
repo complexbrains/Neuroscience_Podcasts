@@ -72,3 +72,5 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [High Impact Coffee Hours](https://open.spotify.com/show/2v31ZA6AipBlJ60IbGAUt5)
 
+[Neurotech Pub](https://www.paradromics.com/neurotech-pub/)
+
