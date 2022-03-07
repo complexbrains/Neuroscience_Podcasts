@@ -66,6 +66,8 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Cortex Club](https://podcasts.ox.ac.uk/series/cortexcast-neuroscience-podcast)
 
+[BJKS Podcast](https://bjks.buzzsprout.com/) is a long-form interviews about neuroscience, psychology, & anything vaguely related.
+
 [Huberman Lab](https://hubermanlab.libsyn.com/)
 
 [Neurology Minute](https://neurologyminute.libsyn.com/website)
@@ -73,4 +75,5 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [High Impact Coffee Hours](https://open.spotify.com/show/2v31ZA6AipBlJ60IbGAUt5)
 
 [Neurotech Pub](https://www.paradromics.com/neurotech-pub/)
+
 
