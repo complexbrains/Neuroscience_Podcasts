@@ -25,7 +25,6 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Peter Bandettini interview with Niko Kriegeskorte](https://www.dropbox.com/s/6t280qnkx1phcj6/Niko%20Kriegeskorte%20-%20Podcast%203.mp3?dl=0)
 
 
-
 [Peter Bandettini interview with Dr. Christopher Baker: How does the brain categorize the visual world and change with learning](https://www.nimh.nih.gov/news/media/2019/dr-christopher-baker-how-does-the-brain-categorize-the-visual-world-and-change-with-learning.shtml)
 
 [Peter Bandettini interview with Danny Pine](https://www.nimh.nih.gov/news/media/2019/danny-pine-md-can-clinical-fmri-research-transfer-to-the-clinic.shtml) Can clinical fMRI research transfer to the clinic?
@@ -68,3 +67,13 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 [Cortex Club](https://podcasts.ox.ac.uk/series/cortexcast-neuroscience-podcast)
 
 [BJKS Podcast](https://bjks.buzzsprout.com/) is a long-form interviews about neuroscience, psychology, & anything vaguely related.
+
+[Huberman Lab](https://hubermanlab.libsyn.com/)
+
+[Neurology Minute](https://neurologyminute.libsyn.com/website)
+
+[High Impact Coffee Hours](https://open.spotify.com/show/2v31ZA6AipBlJ60IbGAUt5)
+
+[Neurotech Pub](https://www.paradromics.com/neurotech-pub/)
+
+
