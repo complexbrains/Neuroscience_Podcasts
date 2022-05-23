@@ -76,4 +76,10 @@ Here I gathered the podcasts about the general topics in Neuroscience that I lik
 
 [Neurotech Pub](https://www.paradromics.com/neurotech-pub/)
 
+[Imposter Syndrome Podcast](https://soundcloud.com/user-179640791)
+
+[Space Time Mind Podcasts](http://www.spacetimemind.com/episodes)
+
+[The Joy of Why](https://www.quantamagazine.org/tag/the-joy-of-why)
+
 
